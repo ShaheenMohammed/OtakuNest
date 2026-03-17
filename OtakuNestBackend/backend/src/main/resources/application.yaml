@@ -3,9 +3,9 @@ spring:
     name: Otaku Nest Backend
 
   datasource:
-    url: jdbc:postgresql://localhost:5332/${DB_NAME}
-    username: ${DB_USER}
-    password: ${DB_PASSWORD}
+    url: jdbc:postgresql://localhost:5332/ON_DB
+    username: OtakuNest
+    password: openNest
     driver-class-name: org.postgresql.Driver
 
   jpa:

@@ -3,6 +3,7 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+enums/
 
 ### STS ###
 .apt_generated
@@ -21,6 +22,7 @@ target/
 *.env
 *.yml
 *.sql
+*.txt
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
