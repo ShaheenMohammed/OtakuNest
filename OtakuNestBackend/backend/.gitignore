@@ -21,7 +21,6 @@ enums/
 *.ipr
 *.env
 *.yml
-*.sql
 *.txt
 ### NetBeans ###
 /nbproject/private/
